@@ -45,7 +45,7 @@ def generar_numeros_aleatorios(cantidad, limite):
     return [random.randint(1, limite) for _ in range(cantidad)]
 
 
-# iniciar el ciclo
+#iniciar el ciclo
 while True:
     print("1. Calcular area del rectangulo")
     print("2. Calcular circunferencia del circulo")

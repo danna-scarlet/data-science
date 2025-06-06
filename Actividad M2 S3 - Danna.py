@@ -19,8 +19,7 @@ estudiantes = []
 
 while True:
     # Ingresar nombre de estudiante
-    nombre = input(
-        "Ingresa el nombre del estudiante o 'Salir' para terminar y ver un resumen de los datos ingresados: ")
+    nombre = input("Ingresa el nombre del estudiante o 'Salir' para terminar y ver un resumen de los datos ingresados: ")
 
     # Evaluar opción para salir
     if nombre.upper() == "SALIR" or nombre.lower() == "salir":
@@ -51,5 +50,4 @@ while True:
 
 # Bucle o ciclo for para mostrar nombres y comentarios de todos los estudiantes ingresados
 for estudiante in estudiantes:
-    print(
-        f"Estudiante {estudiante[0]} tiene un promedio de nota de {estudiante[1]}, {estudiante[2]}.")
+    print(f"Estudiante {estudiante[0]} tiene un promedio de nota de {estudiante[1]}, {estudiante[2]}.")

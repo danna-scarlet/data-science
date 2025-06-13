@@ -1,0 +1,11 @@
+ID_Registro,Fecha,Nombre,Edad,Genero,Curso,Nota,Asistencia,Campus
+1,2025-05-10,Ana López,19,F,Matemáticas,8.5,95,Madrid
+2,2025-05-10,Carlos García,20,M,Física,7.8,88,Barcelona
+3,2025-05-11,María Fernández,18,F,Química,9.2,98,Valencia
+4,2025-05-11,Juan Rodríguez,21,M,Matemáticas,6.9,80,Sevilla
+5,2025-05-12,Laura Martín,19,F,Historia,8.9,92,Madrid
+6,2025-05-12,Pedro Sánchez,22,M,Física,9.5,99,Valencia
+7,2025-05-13,Carmen Torres,20,F,Química,7.5,85,Barcelona
+8,2025-05-13,Miguel Ruiz,18,M,Historia,8.2,90,Sevilla
+9,2025-05-14,Lucía Gil,19,F,Matemáticas,7.1,87,Madrid
+10,2025-05-14,David Ortega,21,M,Física,8.7,93,Valencia

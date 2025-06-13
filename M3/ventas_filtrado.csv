@@ -1,0 +1,19 @@
+ID_Venta,Fecha,Producto,Categoría,Precio,Cantidad,Cliente,Ciudad
+1,2025-06-01,Laptop,Computadoras,1200,1,Ana Torres,Madrid
+3,2025-06-02,Smartphone,Teléfonos,800,1,Laura Gómez,Valencia
+4,2025-06-02,Tablet,Computadoras,600,1,Pedro Ruiz,Sevilla
+5,2025-06-03,Auriculares,Accesorios,150,1,María López,Madrid
+6,2025-06-03,Monitor,Computadoras,300,2,David García,Valencia
+8,2025-06-04,Impresora,Accesorios,120,1,Raúl Sánchez,Sevilla
+9,2025-06-05,Smartwatch,Accesorios,200,1,Elena Díaz,Madrid
+10,2025-06-05,Router,Redes,80,1,Manuel Ortega,Valencia
+11,2025-06-06,Disco Duro,Accesorios,90,2,Patricia Ramos,Sevilla
+12,2025-06-06,Webcam,Accesorios,60,1,Oscar Medina,Barcelona
+13,2025-06-07,PC Gamer,Computadoras,1800,1,Andrea Castro,Madrid
+14,2025-06-07,Altavoces,Accesorios,75,1,Daniela Vega,Valencia
+15,2025-06-08,Tablet,Computadoras,650,1,Francisco León,Sevilla
+16,2025-06-08,Smartphone,Teléfonos,950,1,Clara Gil,Barcelona
+17,2025-06-09,Monitor,Computadoras,350,1,Alberto Mora,Madrid
+18,2025-06-09,Teclado,Accesorios,55,2,Silvia Peña,Valencia
+19,2025-06-10,Impresora,Accesorios,110,1,Marcos Vidal,Sevilla
+20,2025-06-10,Smartwatch,Accesorios,210,1,Teresa Soto,Madrid

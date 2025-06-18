@@ -43,7 +43,7 @@ import pandas as pd
 
 #1. Limpieza y Transformación de Datos:
 #1.1 Carga el dataset en un DataFrame de Pandas.
-df = pd.read_csv("M3\Evaluacion final\migracion.csv")
+df = pd.read_csv("C:\\Users\\danna\\OneDrive\\Documentos\\GitHub\\data-science\\M3\\migracion.csv")
 print(f"1.1 Dataframe: \n {df.head(10)} \n")
 
 #1.2 Identifica y trata valores perdidos en el dataset.
@@ -122,8 +122,8 @@ print(f"4.2 Data Frame filtrado por IDH de pais de destino > 0.90: \n {df_filtra
 
 #4.3 Crea una nueva columna "Diferencia_IDH" que calcule la diferencia de IDH entre país de origen y destino. 
 df['Diferencia_IDH'] = df['IDH_Destino'] - df['IDH_Origen']
-print(f"4.2 Data Frame con Diferencia IDH: \n {df} \n")
+print(f"4.3 Data Frame con Diferencia IDH: \n {df} \n")
 
 #5. Exportación de Datos (1 punto) 
 #• Guarda el DataFrame final en un nuevo archivo CSV llamado "Migracion_Limpio.csv", sin el índice.
-df.to_csv("M3/Actividades/Migracion_Limpio.csv", index=False)
+df.to_csv("C:\\Users\\danna\\OneDrive\\Documentos\\GitHub\\data-science\\M3\\Migracion_Limpio.csv", index=False)

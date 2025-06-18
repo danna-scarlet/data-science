@@ -1,0 +1,107 @@
+,Cliente_ID,Nombre,Categoría,Cantidad,Precio,Método de Pago,Fecha
+0,1001,Cliente_1,Electrónica,2,45.5,PayPal,2024-01-01
+1,1002,Cliente_2,Moda,1,30.0,Tarjeta de Crédito,2024-01-02
+2,1003,Cliente_3,Hogar,3,25.75,Efectivo,2024-01-03
+3,1004,Cliente_4,Deportes,4,50.0,Tarjeta de Crédito,2024-01-04
+4,1005,Cliente_5,Desconocido,2,40.0,PayPal,2024-01-05
+5,1006,Cliente_6,Electrónica,6,75.25,Efectivo,2024-01-06
+6,1007,Cliente_7,Electrónica,50,90.0,Tarjeta de Crédito,2024-01-07
+7,1008,Cliente_8,Deportes,60,85.0,Efectivo,2024-01-08
+8,1009,Cliente_9,Moda,5,32.5,PayPal,2024-01-09
+9,1010,Cliente_10,Hogar,7,95.0,Efectivo,2024-01-10
+10,1011,Cliente_11,Moda,3,40.0,Efectivo,2024-01-11
+11,1005,Cliente_5,Desconocido,2,40.0,PayPal,2024-01-05
+12,1007,Cliente_7,Electrónica,50,90.0,Tarjeta de Crédito,2024-01-07
+13,1012,Cliente_12,Libros,2,15.99,PayPal,2024-01-12
+14,1013,Cliente_13,Electrónica,1,120.0,Tarjeta de Crédito,2024-01-13
+15,1014,Cliente_14,Moda,8,25.99,Efectivo,2024-01-14
+16,1015,Cliente_15,Hogar,4,67.5,PayPal,2024-01-15
+17,1016,Cliente_16,Deportes,2,89.99,Tarjeta de Crédito,2024-01-16
+18,1017,Cliente_17,Desconocido,3,45.0,Efectivo,2024-01-17
+19,1018,Cliente_18,Electrónica,1,299.99,PayPal,2024-01-18
+20,1019,Cliente_19,Libros,5,12.5,Efectivo,2024-01-19
+21,1020,Cliente_20,Moda,1,78.0,Tarjeta de Crédito,2024-01-20
+22,1021,Cliente_21,Hogar,9,55.25,PayPal,2024-01-21
+23,1022,Cliente_22,Deportes,2,125.0,Efectivo,2024-01-22
+24,1023,Cliente_23,Electrónica,100,150.0,Tarjeta de Crédito,2024-01-23
+25,1024,Cliente_24,Libros,3,28.99,PayPal,2024-01-24
+26,1025,Cliente_25,Moda,6,42.5,Efectivo,2024-01-25
+27,1026,Cliente_26,Desconocido,1,65.0,Tarjeta de Crédito,2024-01-26
+28,1027,Cliente_27,Hogar,4,88.75,PayPal,2024-01-27
+29,1028,Cliente_28,Deportes,7,72.0,Efectivo,2024-01-28
+30,1029,Cliente_29,Electrónica,2,195.5,Tarjeta de Crédito,2024-01-29
+31,1030,Cliente_30,Libros,8,22.99,PayPal,2024-01-30
+32,1031,Cliente_31,Moda,1,40.0,Efectivo,2024-01-31
+33,1032,Cliente_32,Hogar,5,110.0,Tarjeta de Crédito,2024-02-01
+34,1033,Cliente_33,Deportes,3,95.5,PayPal,2024-02-02
+35,1034,Cliente_34,Electrónica,15,180.0,Efectivo,2024-02-03
+36,1035,Cliente_35,Libros,2,19.99,Tarjeta de Crédito,2024-02-04
+37,1036,Cliente_36,Moda,4,55.0,PayPal,2024-02-05
+38,1037,Cliente_37,Desconocido,6,75.25,Efectivo,2024-02-06
+39,1038,Cliente_38,Hogar,1,125.5,Tarjeta de Crédito,2024-02-07
+40,1039,Cliente_39,Deportes,8,68.99,PayPal,2024-02-08
+41,1040,Cliente_40,Electrónica,3,220.0,Efectivo,2024-02-09
+42,1041,Cliente_41,Libros,12,35.99,Tarjeta de Crédito,2024-02-10
+43,1042,Cliente_42,Moda,2,92.5,PayPal,2024-02-11
+44,1043,Cliente_43,Hogar,7,48.75,Efectivo,2024-02-12
+45,1044,Cliente_44,Deportes,1,155.0,Tarjeta de Crédito,2024-02-13
+46,1045,Cliente_45,Electrónica,20,175.99,PayPal,2024-02-14
+47,1046,Cliente_46,Libros,3,26.5,Efectivo,2024-02-15
+48,1047,Cliente_47,Moda,5,63.25,Tarjeta de Crédito,2024-02-16
+49,1048,Cliente_48,Desconocido,2,85.0,PayPal,2024-02-17
+50,1049,Cliente_49,Hogar,6,72.5,Efectivo,2024-02-18
+51,1050,Cliente_50,Deportes,4,118.75,Tarjeta de Crédito,2024-02-19
+52,1023,Cliente_23,Electrónica,100,150.0,Tarjeta de Crédito,2024-01-23
+53,1034,Cliente_34,Electrónica,15,180.0,Efectivo,2024-02-03
+54,1051,Cliente_51,Electrónica,1,350.0,PayPal,2024-02-20
+55,1052,Cliente_52,Libros,7,18.99,Efectivo,2024-02-21
+56,1053,Cliente_53,Moda,3,47.5,Tarjeta de Crédito,2024-02-22
+57,1054,Cliente_54,Hogar,8,95.25,PayPal,2024-02-23
+58,1055,Cliente_55,Deportes,2,132.0,Efectivo,2024-02-24
+59,1056,Cliente_56,Desconocido,4,68.5,Tarjeta de Crédito,2024-02-25
+60,1057,Cliente_57,Electrónica,6,245.75,PayPal,2024-02-26
+61,1058,Cliente_58,Libros,1,42.99,Efectivo,2024-02-27
+62,1059,Cliente_59,Moda,9,38.25,Tarjeta de Crédito,2024-02-28
+63,1060,Cliente_60,Hogar,3,156.0,PayPal,2024-03-01
+64,1061,Cliente_61,Deportes,5,87.5,Efectivo,2024-03-02
+65,1062,Cliente_62,Electrónica,2,425.99,Tarjeta de Crédito,2024-03-03
+66,1063,Cliente_63,Libros,4,31.5,PayPal,2024-03-04
+67,1064,Cliente_64,Moda,1,115.0,Efectivo,2024-03-05
+68,1065,Cliente_65,Desconocido,7,52.75,Tarjeta de Crédito,2024-03-06
+69,1066,Cliente_66,Hogar,2,198.5,PayPal,2024-03-07
+70,1067,Cliente_67,Deportes,6,78.25,Efectivo,2024-03-08
+71,1068,Cliente_68,Electrónica,1,599.99,Tarjeta de Crédito,2024-03-09
+72,1069,Cliente_69,Libros,8,24.99,PayPal,2024-03-10
+73,1070,Cliente_70,Moda,3,89.75,Efectivo,2024-03-11
+74,1071,Cliente_71,Hogar,4,125.25,Tarjeta de Crédito,2024-03-12
+75,1072,Cliente_72,Deportes,1,245.0,PayPal,2024-03-13
+76,1073,Cliente_73,Electrónica,12,315.5,Efectivo,2024-03-14
+77,1074,Cliente_74,Desconocido,2,67.99,Tarjeta de Crédito,2024-03-15
+78,1075,Cliente_75,Libros,5,38.75,PayPal,2024-03-16
+79,1076,Cliente_76,Moda,7,54.5,Efectivo,2024-03-17
+80,1077,Cliente_77,Hogar,3,142.0,Tarjeta de Crédito,2024-03-18
+81,1078,Cliente_78,Deportes,8,95.75,PayPal,2024-03-19
+82,1079,Cliente_79,Electrónica,1,799.99,Efectivo,2024-03-20
+83,1080,Cliente_80,Libros,6,29.5,Tarjeta de Crédito,2024-03-21
+84,1081,Cliente_81,Moda,2,112.25,PayPal,2024-03-22
+85,1082,Cliente_82,Desconocido,9,75.5,Efectivo,2024-03-23
+86,1083,Cliente_83,Hogar,1,267.75,Tarjeta de Crédito,2024-03-24
+87,1084,Cliente_84,Deportes,4,138.0,PayPal,2024-03-25
+88,1085,Cliente_85,Electrónica,3,185.99,Efectivo,2024-03-26
+89,1086,Cliente_86,Libros,7,33.25,Tarjeta de Crédito,2024-03-27
+90,1087,Cliente_87,Moda,5,78.5,PayPal,2024-03-28
+91,1088,Cliente_88,Hogar,2,195.0,Efectivo,2024-03-29
+92,1089,Cliente_89,Deportes,6,115.75,Tarjeta de Crédito,2024-03-30
+93,1090,Cliente_90,Electrónica,1,299.99,PayPal,2024-03-31
+94,1051,Cliente_51,Electrónica,1,350.0,PayPal,2024-02-20
+95,1079,Cliente_79,Electrónica,1,799.99,Efectivo,2024-03-20
+96,1091,Cliente_91,Libros,4,27.99,Efectivo,2024-04-01
+97,1092,Cliente_92,Moda,8,65.25,Tarjeta de Crédito,2024-04-02
+98,1093,Cliente_93,Desconocido,3,105.5,PayPal,2024-04-03
+99,1094,Cliente_94,Hogar,7,87.75,Efectivo,2024-04-04
+100,1095,Cliente_95,Deportes,2,168.0,Tarjeta de Crédito,2024-04-05
+101,1096,Cliente_96,Electrónica,5,225.5,PayPal,2024-04-06
+102,1097,Cliente_97,Libros,1,40.0,Efectivo,2024-04-07
+103,1098,Cliente_98,Moda,6,93.25,Tarjeta de Crédito,2024-04-08
+104,1099,Cliente_99,Hogar,4,156.75,PayPal,2024-04-09
+105,1100,Cliente_100,Deportes,3,198.5,Efectivo,2024-04-10

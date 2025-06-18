@@ -85,3 +85,10 @@ df_copy_sin_outliers = df_copy[
 println("4.3 df_copy sin outliers", df_copy_sin_outliers)
 
 #5. Reemplazar valores incorrectos y modificar la estructura del DataFrame 
+if df_copy["Categoría"].isnull().any():
+   df_copy["Categoría"] = df_copy["Categoría"].fillna("Desconocido")
+
+println("5. Valores incorrectos modificados", df_copy)
+
+#Guardar el DataFrame filtrado en un nuevo archivo CSV
+df_copy.to_csv("M3/Actividades/ventas_filtrado_1.csv", index=True)

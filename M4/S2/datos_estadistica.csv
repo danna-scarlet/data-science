@@ -1,0 +1,101 @@
+ID,Nombre,Edad,Ingresos,Genero,Ciudad
+1,Ana,25,2500,Femenino,Lima
+2,Juan,30,3200,Masculino,Bogotá
+3,Luis,28,2800,Masculino,Lima
+4,Marta,22,2200,Femenino,Quito
+5,Pedro,35,4100,Masculino,Santiago
+6,Sofía,27,2900,Femenino,Lima
+7,Carlos,29,3100,Masculino,Buenos Aires
+8,Elena,24,2700,Femenino,Quito
+9,Miguel,31,3300,Masculino,Santiago
+10,Paula,26,2600,Femenino,Buenos Aires
+11,Valeria,23,2400,Femenino,Lima
+12,Andrés,32,3400,Masculino,Bogotá
+13,Lucía,28,2850,Femenino,Lima
+14,Esteban,27,2950,Masculino,Quito
+15,Raúl,34,4000,Masculino,Santiago
+16,Isabel,25,2550,Femenino,Lima
+17,Oscar,29,3150,Masculino,Buenos Aires
+18,Patricia,24,2650,Femenino,Quito
+19,Diego,33,3500,Masculino,Santiago
+20,Marina,26,2750,Femenino,Buenos Aires
+21,Julio,28,2800,Masculino,Lima
+22,Carla,27,2900,Femenino,Bogotá
+23,Roberto,30,3200,Masculino,Lima
+24,Angela,22,2250,Femenino,Quito
+25,Martin,35,4100,Masculino,Santiago
+26,Paula,27,2900,Femenino,Lima
+27,Victor,29,3100,Masculino,Buenos Aires
+28,Sonia,24,2700,Femenino,Quito
+29,Julian,31,3300,Masculino,Santiago
+30,Laura,26,2600,Femenino,Buenos Aires
+31,Manuel,23,2400,Masculino,Lima
+32,Silvia,32,3400,Femenino,Bogotá
+33,Alberto,28,2850,Masculino,Lima
+34,Estela,27,2950,Femenino,Quito
+35,Raquel,34,4000,Femenino,Santiago
+36,David,25,2550,Masculino,Lima
+37,Luisa,29,3150,Femenino,Buenos Aires
+38,Patricio,24,2650,Masculino,Quito
+39,Daniela,33,3500,Femenino,Santiago
+40,Marcos,26,2750,Masculino,Buenos Aires
+41,Gloria,28,2800,Femenino,Lima
+42,Enrique,27,2900,Masculino,Bogotá
+43,Clara,30,3200,Femenino,Lima
+44,Emilio,22,2250,Masculino,Quito
+45,Martina,35,4100,Femenino,Santiago
+46,Pedro,27,2900,Masculino,Lima
+47,Victoria,29,3100,Femenino,Buenos Aires
+48,Samuel,24,2700,Masculino,Quito
+49,Marina,31,3300,Femenino,Santiago
+50,Paulo,26,2600,Masculino,Buenos Aires
+51,Valeria,23,2400,Femenino,Lima
+52,Andrés,32,3400,Masculino,Bogotá
+53,Lucía,28,2850,Femenino,Lima
+54,Esteban,27,2950,Masculino,Quito
+55,Raúl,34,4000,Masculino,Santiago
+56,Isabel,25,2550,Femenino,Lima
+57,Oscar,29,3150,Masculino,Buenos Aires
+58,Patricia,24,2650,Femenino,Quito
+59,Diego,33,3500,Masculino,Santiago
+60,Marina,26,2750,Femenino,Buenos Aires
+61,Julio,28,2800,Masculino,Lima
+62,Carla,27,2900,Femenino,Bogotá
+63,Roberto,30,3200,Masculino,Lima
+64,Angela,22,2250,Femenino,Quito
+65,Martin,35,4100,Masculino,Santiago
+66,Paula,27,2900,Femenino,Lima
+67,Victor,29,3100,Masculino,Buenos Aires
+68,Sonia,24,2700,Femenino,Quito
+69,Julian,31,3300,Masculino,Santiago
+70,Laura,26,2600,Femenino,Buenos Aires
+71,Manuel,23,2400,Masculino,Lima
+72,Silvia,32,3400,Femenino,Bogotá
+73,Alberto,28,2850,Masculino,Lima
+74,Estela,27,2950,Femenino,Quito
+75,Raquel,34,4000,Femenino,Santiago
+76,David,25,2550,Masculino,Lima
+77,Luisa,29,3150,Femenino,Buenos Aires
+78,Patricio,24,2650,Masculino,Quito
+79,Daniela,33,3500,Femenino,Santiago
+80,Marcos,26,2750,Masculino,Buenos Aires
+81,Gloria,28,2800,Femenino,Lima
+82,Enrique,27,2900,Masculino,Bogotá
+83,Clara,30,3200,Femenino,Lima
+84,Emilio,22,2250,Masculino,Quito
+85,Martina,35,4100,Femenino,Santiago
+86,Pedro,27,2900,Masculino,Lima
+87,Victoria,29,3100,Femenino,Buenos Aires
+88,Samuel,24,2700,Masculino,Quito
+89,Marina,31,3300,Femenino,Santiago
+90,Paulo,26,2600,Masculino,Buenos Aires
+91,Valeria,23,2400,Femenino,Lima
+92,Andrés,32,3400,Masculino,Bogotá
+93,Lucía,28,2850,Femenino,Lima
+94,Esteban,27,2950,Masculino,Quito
+95,Raúl,34,4000,Masculino,Santiago
+96,Isabel,25,2550,Femenino,Lima
+97,Oscar,29,3150,Masculino,Buenos Aires
+98,Patricia,24,2650,Femenino,Quito
+99,Diego,33,3500,Masculino,Santiago
+100,Marina,26,2750,Femenino,Buenos Aires

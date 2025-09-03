@@ -1,0 +1,7 @@
+[
+  {"id": 1, "carrera": "Ingeniería Comercial", "universidad": "U. de Chile", "inscritos": 3200, "area": "Económicas y Administrativas"},
+  {"id": 2, "carrera": "Derecho", "universidad": "PUC", "inscritos": 2900, "area": "Ciencias Sociales"},
+  {"id": 3, "carrera": "Medicina", "universidad": "U. de Concepción", "inscritos": 2500, "area": "Salud"},
+  {"id": 4, "carrera": "Psicología", "universidad": "U. de Santiago", "inscritos": 1800, "area": "Ciencias Sociales"},
+  {"id": 5, "carrera": "Ingeniería Civil", "universidad": "UTFSM", "inscritos": 3100, "area": "Ingeniería y Tecnología"}
+]

@@ -1,0 +1,9 @@
+id,usuario,monto,fecha,categoria
+1,Juan,1200,2023-08-01,Supermercado
+2,Ana,800,2023-08-02,Restaurante
+3,Pedro,1500,2023-08-03,Supermercado
+4,Carla,2000,2023-08-04,Electrónica
+5,Juan,500,2023-08-05,Restaurante
+6,Ana,2500,2023-08-06,Electrónica
+7,Pedro,700,2023-08-07,Supermercado
+8,Carla,1800,2023-08-08,Supermercado
